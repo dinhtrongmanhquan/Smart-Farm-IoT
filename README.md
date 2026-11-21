@@ -10,7 +10,7 @@ Hệ thống được thiết kế theo kiến trúc đa vi điều khiển phâ
 
 ## Poster Dự Án
 <p align="center">
-  <img src="poster/poster_trang_trai_thong_minh.png" alt="Poster Smart Farm Arduino" width="600">
+  <img src="Smart-Farm-IoT/poster/poster.pdf" alt="Poster Smart Farm Arduino" width="600">
 </p>
 
 ## Chức năng chính
