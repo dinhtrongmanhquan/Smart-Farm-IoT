@@ -9,7 +9,7 @@ Hệ thống được thiết kế theo kiến trúc đa vi điều khiển phâ
 - **Tầng giao diện & Cảnh báo (Interface & Alert Layer):** Màn hình **LCD I2C 16x2** luân phiên hiển thị 4 trang thông số/trạng thái, kết hợp **còi Buzzer** cảnh báo tại chỗ khi phát hiện rò rỉ khí gas hoặc nhiệt độ vượt ngưỡng an toàn.
 
 ## Poster Dự Án
-<img src="https://github.com/<ten-user>/<ten-repo>/blob/main/poster/poster-1.png?raw=true" width="100%">
+<img src="Smart-Farm-IoT/poster" width="100%">
 
 ## Chức năng chính
 - Tự động bơm cấp nước theo thuật toán vùng trễ (Hysteresis: bật bơm khi `< 100`, giữ trạng thái trong `100–499`, tắt bơm khi `>= 500`)
