@@ -10,7 +10,7 @@ Hệ thống được thiết kế theo kiến trúc đa vi điều khiển phâ
 
 ## Poster Dự Án
 <p align="center">
-  <img src="[Smart-Farm-IoT/poster/poster.pdf" width="600">
+  <img src="[Smart-Farm-IoT/poster/poster.pdf" width="1600">
 </p>
 
 ## Chức năng chính
