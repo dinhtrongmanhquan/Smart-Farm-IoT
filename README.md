@@ -10,7 +10,6 @@ Hệ thống được thiết kế theo kiến trúc đa vi điều khiển phâ
 
 ## Poster Dự Án
 <img src="Smart-Farm-IoT/poster/1.png" width="100%">
-<img src="Smart-Farm-IoT/poster/2.png" width="100%">
 
 ## Chức năng chính
 - Tự động bơm cấp nước theo thuật toán vùng trễ (Hysteresis: bật bơm khi `< 100`, giữ trạng thái trong `100–499`, tắt bơm khi `>= 500`)
